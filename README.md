@@ -1,4 +1,4 @@
-# Vedavel — Vedações Industriais
+# Vedavel Vedações Industriais
 
 ![PHP](https://img.shields.io/badge/PHP-8+-blue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
@@ -33,29 +33,34 @@ O sistema centraliza as informações da empresa em um único ambiente web moder
 Veja abaixo algumas telas do sistema Vedavel e entenda o funcionamento de cada módulo:
 
 ### Home
-<img width="1350" alt="Home Vedavel" src="LINK_DA_IMAGEM_HOME" />
+<img width="1335" height="628" alt="image" src="https://github.com/user-attachments/assets/fcd7a9b4-b087-4655-b868-4e79bd078bc7" />
 
 Página inicial institucional da empresa.
 
 ### Produtos
-<img width="1350" alt="Produtos Vedavel" src="LINK_DA_IMAGEM_PRODUTOS" />
+<img width="1333" height="627" alt="image" src="https://github.com/user-attachments/assets/dd51ff88-9444-4007-b370-66864914e97a" />
 
 Área destinada à apresentação dos produtos industriais.
 
 ### Catálogo
-<img width="1350" alt="Catálogo Vedavel" src="LINK_DA_IMAGEM_CATALOGO" />
+<img width="1334" height="626" alt="image" src="https://github.com/user-attachments/assets/315976e9-8a36-4843-9a9b-d972ba55888c" />
 
 Página para visualização e acesso aos catálogos técnicos.
 
 ### Contato
-<img width="1350" alt="Contato Vedavel" src="LINK_DA_IMAGEM_CONTATO" />
+<img width="1335" height="626" alt="image" src="https://github.com/user-attachments/assets/28192374-f22d-436d-92fc-6da1bd6d4df3" />
 
 Canal de comunicação entre clientes e empresa.
 
 ### Portal Administrativo
-<img width="1350" alt="Portal Administrativo" src="LINK_DA_IMAGEM_ADMIN" />
+<img width="1349" height="629" alt="image" src="https://github.com/user-attachments/assets/ee43a3be-e64e-430b-a48b-9f2633754f7f" />
 
 Painel administrativo utilizado para cadastro e gerenciamento de produtos e catálogos.
+
+### Painel Administrativo
+<img width="1347" height="629" alt="image" src="https://github.com/user-attachments/assets/5fd70f69-968d-495b-b6ac-c8a7655d52e2" />
+
+Painel administrativo utilizado para gerenciamento interno de categorias e produtos do sistema.
 
 ---
 
