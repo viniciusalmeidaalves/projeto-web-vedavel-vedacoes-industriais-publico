@@ -30,7 +30,7 @@ O sistema centraliza as informações da empresa em um único ambiente web moder
 
 ## Imagens do Sistema
 
-Veja abaixo algumas telas do sistema Vedavel e entenda o funcionamento de cada módulo:
+Veja abaixo as páginas do projeto:
 
 ### Home
 <img width="1335" height="628" alt="image" src="https://github.com/user-attachments/assets/fcd7a9b4-b087-4655-b868-4e79bd078bc7" />
